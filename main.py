@@ -6,3 +6,5 @@ def main():
 
 def aojsnd():
     pass
+
+main()
