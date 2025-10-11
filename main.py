@@ -9,5 +9,3 @@ def aojsnd():
 
 main()
 aojsnd()
-
-aojlsdlAJDSAJSLDKJ
