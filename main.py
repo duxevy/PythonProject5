@@ -8,3 +8,4 @@ def aojsnd():
     pass
 
 main()
+aojsnd()
