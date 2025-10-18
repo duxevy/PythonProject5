@@ -5,3 +5,6 @@ def sort_by_digit(data: list[int]) -> list[int]:
     :return: отсортированный список чисел
     """
     return sorted(data)
+
+def foo():
+    pass
