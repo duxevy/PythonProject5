@@ -10,3 +10,4 @@ def aojsnd():
 main()
 aojsnd()
 print()
+print()
