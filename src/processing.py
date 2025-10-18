@@ -8,3 +8,5 @@ def sort_by_digit(data: list[int]) -> list[int]:
 
 def foo():
     pass
+
+print()
