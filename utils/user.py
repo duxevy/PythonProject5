@@ -11,3 +11,5 @@ fruits = ["2024", "11", "03"]
 print(fruits)
 fruits_1 = fruits.reverse()
 print(fruits_1)
+
+print(fruits_1)
