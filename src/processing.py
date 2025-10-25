@@ -6,11 +6,7 @@ def sort_by_digit(data: list[int]) -> list[int]:
     """
     return sorted(data)
 
-def foo():
-    """
-    Какая-то функция
-    :return:
-    """
-    pass
+def filter_by_state(operations: list[dict], state: str = "EXECUTED"):
+    return [oper_ for oper_ in operations if oper_["state"] == state]
 
 print()
