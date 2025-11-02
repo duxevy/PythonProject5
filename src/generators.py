@@ -1,6 +1,7 @@
 from typing import Generator
 
 def card_number_gen(start: int, stop: int) -> Generator:
+    """"""
     for n in range(start, stop+1):
         n_str = str(n)
         while len(n_str) < 16:
