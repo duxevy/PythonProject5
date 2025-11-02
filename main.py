@@ -1,5 +1,4 @@
-from src.calc import summ
-from utils.user import user_interaction
+from src import summ
 
 def main():
     pass
