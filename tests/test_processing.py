@@ -1,5 +1,5 @@
 import pytest
-from src.processing import filter_by_state
+from src import filter_by_state
 
 @pytest.fixture()
 def operations():
